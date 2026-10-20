@@ -1,0 +1,12 @@
+*.class
+build/
+classes/
+controller/classes/
+editor/classes/
+editor/node/classes/
+export/classes/
+io/classes/
+model/classes/
+model/event/classes/
+preview/classes/
+util/classes/
